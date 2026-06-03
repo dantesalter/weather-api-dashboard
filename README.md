@@ -43,8 +43,7 @@ The Python script:
 
 ## Dashboard Preview
 
-![Dashboard Overview](<img width="1421" height="800" alt="Screenshot 2026-06-02 151127" src="https://github.com/user-attachments/assets/d07e0762-f595-4151-b0f2-087f55d16842" />
-)
+See attached image!
 
 ## Key Findings
 
